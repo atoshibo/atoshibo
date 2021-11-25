@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @atoshibo
+- 👀 I’m interested in financial growining 
+- 🌱 I’m currently learning Azure
+- 💞️ I’m looking to hire Juniors and Confirmeds in France in Azure, DevOps, Jenkins
+- 📫 aleksandr.kovalev@acensi.fr
